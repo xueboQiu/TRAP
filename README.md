@@ -1,1 +1,1 @@
-# ano_det
+# The implementation of TRAP.
