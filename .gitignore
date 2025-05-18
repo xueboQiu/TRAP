@@ -2,6 +2,7 @@ data/
 checkpoints/*.pt
 gradate/
 figs/
+utils/optc_parser.py
 .idea/
 eval_result/*.pkl
 drawing.py
